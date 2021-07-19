@@ -15,19 +15,19 @@ Realtime fully responsive Anonymous Chat App With Users & Rooms - Socket.io, Nod
 
 ## steps to run 
 
-Like every other node based project just clone it and run 'npm install'
-this will install all dependencies including dev dependeincies.
+Like every other node based project just clone it and run `npm install`
+this will install all dependencies including dev dependencies.
 
-now to run 
-npm run start
-or to run for dev
-npm run dev (will start nodemon)
+now to run <br />
+`npm run start` <br />
+or to run for dev <br />
+`npm run dev` (will start nodemon)
 
 ### brief details
 
-Realtime fully responsive Anonymous Chat App With Users & Rooms.
-Socket.io is used here for bidirectional and event-based communication from server to client and vice versa., 
-Node as a run-time environment and Express  as a web server on top of which the socketio is sending and receiving request from front to back and so. 
+Realtime fully responsive Anonymous Chat App With Users & Rooms. <br />
+Socket.io is used here for bidirectional and event-based communication from server to client and vice versa.,  <br />
+Node as a run-time environment and Express  as a web server on top of which the socketio is sending and receiving request from front to back and so. <br />
 momentjs is used for efficient time capture of sending of message in a room.
 
 
