@@ -1,4 +1,4 @@
-# ChatSocial-v1.0 (Social Chat Web App)
+## Social Chat Web App
 
 Realtime fully responsive Anonymous Chat App With Users & Rooms - Socket.io, Node & Express
 
